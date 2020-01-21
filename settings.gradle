@@ -1,0 +1,2 @@
+include ':SampleImageDownloaderApp'
+rootProject.name='SampleImageDownloader'
