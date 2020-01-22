@@ -1,2 +1,2 @@
-include ':SampleImageDownloaderApp'
+include ':SampleImageDownloaderApp', ':domain', ':data'
 rootProject.name='SampleImageDownloader'
