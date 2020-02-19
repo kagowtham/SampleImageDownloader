@@ -1,0 +1,11 @@
+ext {
+    buildDetails = [
+
+    ]
+    versions = [
+            'dagger' : '2.25.2'
+    ]
+    constants = [
+
+    ]
+}

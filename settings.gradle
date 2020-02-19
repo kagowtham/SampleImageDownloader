@@ -1,2 +1,2 @@
-include ':SampleImageDownloaderApp', ':domain', ':data'
+include ':SampleImageDownloaderApp', ':domain', ':data', ':dagger-viewmodel'
 rootProject.name='SampleImageDownloader'

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SampleImageDownloader</string>
+    <string name="choose_title_text">Enter image size to download</string>
+    <string name="next">Next</string>
+    <string name="mb">MB</string>
+    <string name="choose_text">Choose the below images to download</string>
+    <string name="download_all">Download All</string>
 </resources>
